@@ -84,11 +84,32 @@
       },
       {
         "tab": "保持最新",
-        "icon": "arrows-rotate"
+        "icon": "arrows-rotate",
+        "groups": [
+          {
+            "group": "日出更新-Released",
+            "pages": []
+          },
+          {
+            "group": "日落更新-Beta",
+            "pages": []
+          }
+        ]
       },
       {
         "tab": "发现问题",
-        "icon": "ticket"
+        "icon": "ticket",
+        "pages": [
+          "untitled-page",
+          {
+            "group": "未解决",
+            "pages": []
+          },
+          {
+            "group": "已解决",
+            "pages": []
+          }
+        ]
       }
     ]
   },
