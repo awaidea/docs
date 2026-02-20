@@ -29,7 +29,7 @@
         "icon": "blender",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "我们走吧",
             "pages": [
               "index",
               "quickstart",
