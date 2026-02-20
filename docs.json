@@ -9,9 +9,24 @@
   },
   "favicon": "/images/1.png",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "文档",
+          "icon": "book-open-cover",
+          "href": "https://docs.loveloli.me"
+        },
+        {
+          "anchor": "主站",
+          "icon": "newspaper",
+          "href": "https://loveloli.me"
+        }
+      ]
+    },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "向导",
+        "icon": "blender",
         "groups": [
           {
             "group": "Getting started",
@@ -66,22 +81,16 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "保持最新",
+        "icon": "arrows-rotate"
+      },
+      {
+        "tab": "发现问题",
+        "icon": "ticket"
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
