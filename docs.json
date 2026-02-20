@@ -7,7 +7,7 @@
     "light": "#13efd2",
     "dark": "#02acbd"
   },
-  "favicon": "/images/1.png",
+  "favicon": "https://s1.loveloli.me/hi168-27201-2582wulz/2026/02/20/1.png",
   "navigation": {
     "global": {
       "anchors": [
@@ -94,7 +94,7 @@
       }
     ]
   },
-  "logo": "/images/1.png",
+  "logo": "https://s1.loveloli.me/hi168-27201-2582wulz/2026/02/20/1.png",
   "navbar": {
     "links": [
       {
@@ -133,6 +133,6 @@
     "family": "LXGW WenKai",
     "weight": 100,
     "source": "https://fontsapi.zeoseven.com/292/main/result.css",
-    "format": "woff"
+    "format": "woff2"
   }
 }
