@@ -90,8 +90,12 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "支持",
         "href": "mailto:hi@mintlify.com"
+      },
+      {
+        "label": "首页",
+        "href": "https://loveloli.me"
       }
     ],
     "primary": {
@@ -112,12 +116,12 @@
      "vscode"
    ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+  "description": "向资本开炮",
+  "background": {
+    "image": "https://t.alcy.cc/moez"
   },
-  "description": "向资本开炮"
+  "banner": {
+    "content": "MoePic 开始测试，时间2026.2-2026.6",
+    "dismissible": true
+  }
 }
