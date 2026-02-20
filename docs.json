@@ -85,7 +85,8 @@
       {
         "tab": "保持最新",
         "icon": "arrows-rotate",
-        "groups": [
+        "pages": [
+          "file",
           {
             "group": "日出更新-Released",
             "pages": []
@@ -100,7 +101,6 @@
         "tab": "发现问题",
         "icon": "ticket",
         "pages": [
-          "untitled-page",
           {
             "group": "未解决",
             "pages": []
