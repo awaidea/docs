@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "MoePic",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0be2de",
+    "light": "#13efd2",
+    "dark": "#02acbd"
   },
   "favicon": "/images/1.png",
   "navigation": {
@@ -128,9 +128,6 @@
    ]
   },
   "description": "向资本开炮",
-  "background": {
-    "image": "https://t.alcy.cc/moez"
-  },
   "banner": {
     "content": "MoePic 正式开始测试，时间2026.2-2026.6",
     "dismissible": false
