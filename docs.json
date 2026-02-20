@@ -132,7 +132,7 @@
     "image": "https://t.alcy.cc/moez"
   },
   "banner": {
-    "content": "MoePic 开始测试，时间2026.2-2026.6",
-    "dismissible": true
+    "content": "MoePic 正式开始测试，时间2026.2-2026.6",
+    "dismissible": false
   }
 }
