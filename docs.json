@@ -81,12 +81,13 @@
         "tab": "发现问题",
         "icon": "ticket",
         "pages": [
+          "and",
           {
-            "group": "未解决",
+            "group": "已解决",
             "pages": []
           },
           {
-            "group": "已解决",
+            "group": "未解决",
             "pages": []
           }
         ]
