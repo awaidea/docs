@@ -132,6 +132,7 @@
   "fonts": {
     "family": "LXGW WenKai",
     "weight": 400,
+    "source": "https://file.catp.cc/LXGWWenKai-Regular.woff2",
     "format": "woff2"
   },
   "errors": {
