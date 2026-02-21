@@ -134,5 +134,14 @@
     "weight": 100,
     "source": "https://fontsapi.zeoseven.com/292/main/result.css",
     "format": "woff2"
+  },
+  "errors": {
+    "404": {
+      "title": "页面，页面，你在哪里？",
+      "description": "哎呀，看来这个Page被Cat吃掉了"
+    }
+  },
+  "seo": {
+    "indexing": "all"
   }
 }
