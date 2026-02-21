@@ -131,8 +131,7 @@
   },
   "fonts": {
     "family": "LXGW WenKai",
-    "weight": 100,
-    "source": "https://fontsapi.zeoseven.com/292/main/result.css",
+    "weight": 400,
     "format": "woff2"
   },
   "errors": {
